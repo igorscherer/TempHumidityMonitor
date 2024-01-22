@@ -31,3 +31,7 @@ Why?:
 I created this script firstly for my health, where i live the humidity tend to vary a lot, and i have respiratory problems that could benefit from this monitoring, when the yellow light is on, i turn on my umidifier so the humidity goes back to the acceptable, around 55%.
 
 # Tinkercad link: https://www.tinkercad.com/things/l56GOqPI32H-tempandhumiditymonitor
+
+#Images of the project
+![Image 1](Images/IMG_20240120_174706.jpg)
+![Image 2](Images/IMG_20240120_174706.jpg)
