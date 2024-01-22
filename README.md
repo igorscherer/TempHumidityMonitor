@@ -33,11 +33,5 @@ I created this script firstly for my health, where i live the humidity tend to v
 # Tinkercad link: https://www.tinkercad.com/things/l56GOqPI32H-tempandhumiditymonitor
 
 # Images of the project
-<img
-  src="Images/IMG_20240120_174706.jpg"
-  alt="Image of the project 1"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
-<img
-  src="Images/IMG_20240120_174713.jpg"
-  alt="Image of the project 1"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+<img src="Images/IMG_20240120_174706.jpg" alt="Image of the project 1" width: 200px">
+<img src="Images/IMG_20240120_174713.jpg" alt="Image of the project 1" width: 200px">
