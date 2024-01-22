@@ -28,7 +28,7 @@ Serial communication (9600 baud) for monitoring on the serial monitor.
 Adjusted LED threshold values for improved humidity indication.
 
 <strong>Why?:</strong>
-I created this script firstly for my health, where i live the humidity tend to vary a lot, and i have respiratory problems that could benefit from this monitoring, when the yellow light is on, i turn on my umidifier so the humidity goes back to the acceptable, around 55%.
+I created this script firstly for my health, where i live the humidity tend to vary a lot, and i have respiratory problems that could benefit from this monitoring, when the yellow light is on, i turn on my umidifier so the humidity goes back to the acceptable, around 55%. You could put an relay to turn on automatically the umidifier but in my case i didn't want to.
 
 # Tinkercad link: https://www.tinkercad.com/things/l56GOqPI32H-tempandhumiditymonitor
 
